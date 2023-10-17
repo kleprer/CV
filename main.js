@@ -1,4 +1,4 @@
-/* Когда пользователь нажимает на кнопку, переключаться раскрывает содержимое */
+/* Когда пользователь нажимает на кнопку, раскрывает содержимое */
 function myFunction() {
     document.getElementById("myDropdown").classList.toggle("show");
   }
