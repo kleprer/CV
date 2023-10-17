@@ -27,7 +27,7 @@ font-family: 'Oswald', sans-serif;
 
 .row_2 {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     column-gap: 308px;
 }
 h1 {
